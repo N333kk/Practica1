@@ -304,7 +304,10 @@ body{
   text-align: center;
   background-color: rgb(145, 172, 172);
   border-radius: 25px;
-  margin: 10%;
+  margin-top:5%;
+  margin-bottom:5%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .botonPrueba{
