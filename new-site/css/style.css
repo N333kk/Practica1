@@ -302,10 +302,27 @@ body{
   font-weight: bold;
   color: rgb(34, 34, 35);
   text-align: center;
-  background-color: rgb(158, 162, 162);
+  background-color: rgb(145, 172, 172);
   border-radius: 25px;
   margin: 10%;
 }
+
+.botonPrueba{
+  font-size:20px;
+  font-weight: bold;
+  color: rgb(34, 34, 35);
+  text-align: center;
+  background-color: rgb(145, 172, 172);
+  border-radius: 25px;
+  margin-left: 40%;
+  margin-right: 40%;
+  cursor: pointer;
+}
+
+.botonPrueba:hover{
+  background-color: rgb(230, 236, 236);
+}
+
 footer{
   text-align: center;
   background-color:rgb(137, 141, 141);
